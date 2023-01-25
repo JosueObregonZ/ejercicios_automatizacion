@@ -1,0 +1,6 @@
+{
+  "Mostrar Alerta": {
+    "GetFieldBy": "xPath",
+    "ValueToFind": "//button[contains(text(),'Sign up successful.'"
+  }
+}
